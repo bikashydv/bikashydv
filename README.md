@@ -28,7 +28,7 @@
     <a href="https://linkedin.com/in/ibikashyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibikashyadav" height="30" width="40" /></a>
     <a href="https://instagram.com/ibikashyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibikashyadav" height="30" width="40" /></a>
     <a href="https://hashnode.com/@bikashyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bikashyadav" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/UC_63NDIIenV1vgm6hcZmCsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikash yadav" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/UC_63NDIIenV1vgm6hcZmCsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikash yadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
