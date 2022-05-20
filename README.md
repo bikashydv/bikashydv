@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Git](Git)
 
-- 📝 I regularly write articles on [blog.biashyadav.com.np](blog.biashyadav.com.np)
+- 📝 I regularly write articles on [blog.biashyadav.com.np](blog.bikashyadav.com.np)
 
 - 💬 Ask me about **Laravel**
 
