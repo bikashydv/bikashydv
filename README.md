@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [blog.bikashyadav.com.np](blog.bikashyadav.com.np)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel & flutter**
 
 - 📫 How to reach me **ibikashydv@gmail.com**
 
