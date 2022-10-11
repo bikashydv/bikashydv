@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashydv&label=Profile%20views&color=0e75b6&style=flat" alt="bikashydv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ibikashydv" target="blank"><img src="https://img.shields.io/twitter/follow/ibikashydv?logo=twitter&style=for-the-badge" alt="ibikashydv" /></a> </p>
-<p align="left"> <a href="https://instagram.com/ibikashyadav" target="blank"><img src="https://img.shields.io/instagram/follow/ibikashyadav?logo=instagram&style=for-the-badge" alt="ibikashyadav" /></a> </p>
+
+<p align="left"> <a href="https://instagram.com/ibikashyadav" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **secondhandbazar**
 
