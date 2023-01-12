@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **secondhandbazar**
 
-- 🌱 I’m currently learning **Laravel,flutter,cloudComputing(AwS,azure,google Cloud)**
+- 🌱 I’m currently learning **Laravel,flutter,cloud(DevOps)**
 
 - 👨‍💻 All of my projects are available at [Git](Git)
 
