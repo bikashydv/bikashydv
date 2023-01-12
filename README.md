@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [blog.bikashyadav.com.np](blog.bikashyadav.com.np)
 
-- 💬 Ask me about **Laravel & flutter & cloud computing(devops)**
+- 💬 Ask me about **Laravel & flutter & cloud computing(DevOps)**
 
 - 📫 How to reach me **ibikashydv@gmail.com**
 
