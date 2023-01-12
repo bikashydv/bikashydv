@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bikash Yadav</h1>
-<h3 align="center">A passionate backend & frontend developer from Nepal</h3>
+<h3 align="center">A passionate laravel & flutter developer  and  enthusiasm to learn Devops from Nepal</h3>
 
 <img align="right"  alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
