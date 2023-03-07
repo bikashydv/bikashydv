@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ibikashydv" target="blank"><img src="https://img.shields.io/twitter/follow/ibikashydv?logo=twitter&style=for-the-badge" alt="ibikashydv" /></a> </p> -->
 
-<p align="left"> <a href="https://linkedin.com/in/ibikashyadav" target="blank"><img src="https://img.shields.io/linkedin.com/follow/ibikashyadav?logo=linkedin.com&style=for-the-badge" alt="ibikashyadav" /></a> </p> 
+
 
 
 - 🔭 I’m currently working on **secondhandbazar**
